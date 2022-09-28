@@ -3,7 +3,7 @@
 color 3
 
 echo :::::::::::::::::::::::::::::::::::::
-echo CodeBy : Balaha
+echo CodeBy : AB:0x1
 echo Github: https://github.com/HackCode0x1
 echo : 0x1 Code open Tor Website 
 echo 0x1 010101 Proxy Server 196.258.128.24
